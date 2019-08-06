@@ -1,16 +1,18 @@
 {
-	"orders": {
-		"id": 1,
-		"date": "31 Nov 2019", 
-		"time": "12:00 PM", 
-		"pickUpAddress": "Mirpur DOSH, Dhaka", 
-		"dropOffAddress": "Vatara, Chittagong Port",
-		"productInfo": "Fish Food, 150000 kg."
-	},
-	"vehicle": [
-		{"id": 1, "Name": "Pickup", "Details": "5ton"},
-		{"id": 2, "Name": "Mini Truck", "Details": "10ton"},
-		{"id": 2, "Name": "Truck", "Details": "30ton"}
-		
+	"orders":[
+		{
+			"id": 1,
+			"date": "31 Nov 2019", 
+			"time": "12:00 PM", 
+			"pickUpAddress": "Mirpur DOSH, Dhaka", 
+			"dropOffAddress": "Vatara, Chittagong Port",
+			"productInfo": "Fish Food, 150000 kg.",
+			"vehicle": [
+				{"id": 1, "Name": "Pickup", "Details": "5ton"},
+				{"id": 2, "Name": "Mini Truck", "Details": "10ton"},
+				{"id": 2, "Name": "Truck", "Details": "30ton"}
+				
+			]
+		}
 	]
 }
