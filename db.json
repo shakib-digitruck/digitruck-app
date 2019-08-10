@@ -9,9 +9,9 @@
 			"dropOffAddress": "Vatara, Chittagong Port",
 			"productInfo": "Fish Food, 150000 kg.",
 			"vehicle": [
-				{"id": 1, "Name": "Pickup", "Details": "5ton"},
-				{"id": 2, "Name": "Mini Truck", "Details": "10ton"},
-				{"id": 3, "Name": "Truck", "Details": "30ton"}
+				{"id": 1, "name": "Pickup", "details": "5ton"},
+				{"id": 2, "name": "Mini Truck", "details": "10ton"},
+				{"id": 3, "name": "Truck", "details": "30ton"}
 				
 			]
 		},
@@ -24,9 +24,9 @@
 			"dropOffAddress": "Vatara, Chittagong Port",
 			"productInfo": "Fish Food, 150000 kg.",
 			"vehicle": [
-				{"id": 1, "Name": "Pickup", "Details": "5ton"},
-				{"id": 2, "Name": "Mini Truck", "Details": "10ton"},
-				{"id": 3, "Name": "Truck", "Details": "30ton"}
+				{"id": 1, "name": "Pickup", "details": "5ton"},
+				{"id": 2, "name": "Mini Truck", "details": "10ton"},
+				{"id": 3, "name": "Truck", "details": "30ton"}
 				
 			]
 		},
@@ -39,9 +39,9 @@
 			"dropOffAddress": "Vatara, Chittagong Port",
 			"productInfo": "Fish Food, 150000 kg.",
 			"vehicle": [
-				{"id": 1, "Name": "Pickup", "Details": "5ton"},
-				{"id": 2, "Name": "Mini Truck", "Details": "10ton"},
-				{"id": 3, "Name": "Truck", "Details": "30ton"}
+				{"id": 1, "name": "Pickup", "details": "5ton"},
+				{"id": 2, "name": "Mini Truck", "details": "10ton"},
+				{"id": 3, "name": "Truck", "details": "30ton"}
 				
 			]
 		},
@@ -54,9 +54,9 @@
 			"dropOffAddress": "Vatara, Chittagong Port",
 			"productInfo": "Fish Food, 150000 kg.",
 			"vehicle": [
-				{"id": 1, "Name": "Pickup", "Details": "5ton"},
-				{"id": 2, "Name": "Mini Truck", "Details": "10ton"},
-				{"id": 3, "Name": "Truck", "Details": "30ton"}
+				{"id": 1, "name": "Pickup", "details": "5ton"},
+				{"id": 2, "name": "Mini Truck", "details": "10ton"},
+				{"id": 3, "name": "Truck", "details": "30ton"}
 				
 			]
 		},
@@ -69,9 +69,9 @@
 			"dropOffAddress": "Vatara, Chittagong Port",
 			"productInfo": "Fish Food, 150000 kg.",
 			"vehicle": [
-				{"id": 1, "Name": "Pickup", "Details": "5ton"},
-				{"id": 2, "Name": "Mini Truck", "Details": "10ton"},
-				{"id": 3, "Name": "Truck", "Details": "30ton"}
+				{"id": 1, "name": "Pickup", "details": "5ton"},
+				{"id": 2, "name": "Mini Truck", "details": "10ton"},
+				{"id": 3, "name": "Truck", "details": "30ton"}
 				
 			]
 		}
