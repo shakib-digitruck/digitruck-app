@@ -9,10 +9,9 @@
 			"dropOffAddress": "Vatara, Chittagong Port",
 			"productInfo": "Fish Food, 150000 kg.",
 			"vehicleList": [
-				{"id": 1, "name": "Pickup", "details": "5ton"},
-				{"id": 2, "name": "Mini Truck", "details": "10ton"},
-				{"id": 3, "name": "Truck", "details": "30ton"}
-				
+				{"id": 1, "name": "Pickup", "details": "5ton", "count": 5},
+				{"id": 2, "name": "Mini Truck", "details": "10ton", "count": 10},
+				{"id": 3, "name": "Truck", "details": "30ton", "count": 1}				
 			]
 		},
 		{
@@ -24,9 +23,9 @@
 			"dropOffAddress": "Vatara, Chittagong Port",
 			"productInfo": "Fish Food, 150000 kg.",
 			"vehicleList": [
-				{"id": 1, "name": "Pickup", "details": "5ton"},
-				{"id": 2, "name": "Mini Truck XTRA LARGE", "details": "10ton"},
-				{"id": 3, "name": "Truck", "details": "30ton"}
+				{"id": 1, "name": "Pickup", "details": "5ton", "count": 10},
+				{"id": 2, "name": "Mini Truck XTRA LARGE", "details": "10ton", "count": 10},
+				{"id": 3, "name": "Truck", "details": "30ton", "count": 10}
 				
 			]
 		},
@@ -39,9 +38,9 @@
 			"dropOffAddress": "Vatara, Chittagong Port",
 			"productInfo": "Fish Food, 150000 kg.",
 			"vehicleList": [
-				{"id": 1, "name": "Pickup", "details": "5ton"},
-				{"id": 2, "name": "Mini Truck", "details": "10ton"},
-				{"id": 3, "name": "Truck", "details": "30ton"}
+				{"id": 1, "name": "Pickup", "details": "5ton", , "count": 5},
+				{"id": 2, "name": "Mini Truck", "details": "10ton", "count": 1},
+				{"id": 3, "name": "Truck", "details": "30ton", "count": 1}
 				
 			]
 		},
@@ -54,9 +53,9 @@
 			"dropOffAddress": "Vatara, Chittagong Port",
 			"productInfo": "Fish Food, 150000 kg.",
 			"vehicleList": [
-				{"id": 1, "name": "Pickup", "details": "5ton"},
-				{"id": 2, "name": "Mini Truck", "details": "10ton"},
-				{"id": 3, "name": "Truck", "details": "30ton"}
+				{"id": 1, "name": "Pickup", "details": "5ton", "count": 5},
+				{"id": 2, "name": "Mini Truck", "details": "10ton", "count": 5},
+				{"id": 3, "name": "Truck", "details": "30ton", "count": 5}
 				
 			]
 		},
@@ -69,9 +68,9 @@
 			"dropOffAddress": "Vatara, Chittagong Port",
 			"productInfo": "Fish Food, 150000 kg.",
 			"vehicleList": [
-				{"id": 1, "name": "Pickup", "details": "5ton"},
-				{"id": 2, "name": "Mini Truck", "details": "10ton"},
-				{"id": 3, "name": "Truck", "details": "30ton"}
+				{"id": 1, "name": "Pickup", "details": "5ton", "count": 5},
+				{"id": 2, "name": "Mini Truck", "details": "10ton", "count": 5},
+				{"id": 3, "name": "Truck", "details": "30ton", "count": 5}
 				
 			]
 		}
